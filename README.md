@@ -7,6 +7,7 @@ Code for our ICCV 19 Paper : Monocular 3D Human Pose Estimation by Generation an
 * pytorch 1.0.0
 * h5py 2.8.0
 * matplotlib 3.0.2
+* python 3.6.10
 
 ## Setup
 1. Clone this repository.
